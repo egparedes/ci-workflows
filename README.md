@@ -53,3 +53,5 @@ SHA.
 ## License
 
 BSD 3-Clause, see [LICENSE](LICENSE).
+
+<!-- Fork-only commit for release checklist 3.8: never on GridTools/ci-workflows main. -->
